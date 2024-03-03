@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="title">Simple Calculator</string>
+    <string name="a">a:</string>
+    <string name="ta">Enter value a</string>
+    <string name="b">b:</string>
+    <string name="tb">Enter value b</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="and">&amp;</string>
+    <string name="result">Result:</string>
+    <string name="error">Error: Invalid input</string>
+</resources>
