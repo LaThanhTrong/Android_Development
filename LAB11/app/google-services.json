@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79375699748",
+    "project_id": "androidlab11-ffecc",
+    "storage_bucket": "androidlab11-ffecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79375699748:android:6b367f04ef1cee7fc86db1",
+        "android_client_info": {
+          "package_name": "com.example.lab11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_MsYD4s98DsWVLm3QCRr8DOlq3e_Y3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
